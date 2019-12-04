@@ -1,0 +1,4 @@
+node_modules
+
+# Including build files for demonstration purposes
+# /dist

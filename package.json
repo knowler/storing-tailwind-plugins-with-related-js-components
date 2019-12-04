@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "tailwind build src/main.css -o dist/main.css"
+  },
+  "devDependencies": {
+    "glob": "^7.1.6",
+    "tailwindcss": "^1.1.4"
+  }
+}
